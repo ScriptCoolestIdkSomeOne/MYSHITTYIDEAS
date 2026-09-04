@@ -1,0 +1,17 @@
+make shit that just gets assembler code and says what it does
+
+like "this registers MOVes to this register" or "this shit does this shit"
+also i need to use a lot of macrosses to make this shit know what shit is a stack, a loop and other things
+also add grammar detection like adding OR/AND or other words that connect words and bounds them so they sound crispy
+
+imagine you have a lot of assembbler code and all of this is visualized by blocks, if u click em then u see what they're
+doin, like this shit does this shit and this shit this shit. and they're like connected with little wires
+
+add shit in between insturctions or code like "if shit
+else something" then add 'then'
+"if shit
+then
+else something" and add a lot of other HELPERS to understand
+
+for ASMer:
+add a lot of things like how many tacts this shit can do and this shit can't do so all of the shits and giggles
