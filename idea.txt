@@ -1,0 +1,8 @@
+make shit where you can just type out fasm program or just compiled HEX and then you can call that .exe file(through JIT
+compilation), interact with it and just change when you want to
+
+like we have a program that creates a window and draws a beautiful thing on there, well we can just then copy the code
+define the other thread where we have gonna compile and do shit with .exe file and then boom, highly customizable,
+optimizable, memory efficient thingy is here(well because you define every shit through FASM and PE entry counts too
+but i think that we can just emulate that or just delete it so that it's gonna still be used by the MAIN C program entry
+point)
