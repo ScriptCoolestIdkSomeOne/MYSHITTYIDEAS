@@ -1,0 +1,8 @@
+idea that i need to make a shitty shit that you have full control of
+kind of an ide and compiler all in one
+
+u can choose with ctrl what instructions will compile(and well compiler will just connect em somehow)
+
+naive: mul eax, 5 (WORKS EVERYWHERE).
+tacts: lea eax, [eax + eax*4] (FASTER ON X86 https://stackoverflow.com/questions/2703394/whats-the-point-of-lea-eax-eax).
+Find the Best: just benchmarks every shit or shit that you choosed and do the shit itself considering what you've choosed(lack of speed or size
