@@ -1,0 +1,17 @@
+windows window and mouse thingies(~800 LOC): 
+WM_LBUTTONDOWN (grab block), WM_MOUSEMOVE (move), WM_LBUTTONUP(drop).
+do it through switch(message).
+GDI (~500 LOC):
+Rectangle(), RoundRect() for blocks,
+DrawText() for instructions inside them Polyline() for lines to connect blocks.
+english checking sheesh (~400 LOC): yse switch on the first symbol or NoCRT_strncmp,
+checking lines and printing with if logic (ends_with_vowel) ... AND THEN unions.
+(like "there's mov that does this and that" and "there's some insturction that does this and then that and then does this" just check if it's the right letter and add a couple of other words)
+(ADDITION: Add there simple macros instances that are knowing where is the aligning, stacking and other logic)
+
+simulation and generation(~600 LOC): parsing blocks to assembly, write it to the file and compile
+CreateProcess.
+so C + GDI: it's prob 2 300 to 2 500 LOC for the working base.
+
+INFORMATION OF THE BLOCK:
+what he does(but not how he does), basic content from simulation like "~cycles, ~time, ~tacts, ~power", links to the instructions, with ctrl see what address goes where and how, will this code execute, does this code can do things, does he breaks the rules(shadow space and basic ABI)
