@@ -1,0 +1,20 @@
+need to just find E = mc²(as simple and as understandable as possible as the nature does)
+
+make everything as close to perfection as possible
+when making music just understand the genre, do drums and other stuff, make sure to have all of the components, make sure that it's can give frisson in the second place and in the firsr place that's it's memorable
+CODE:
+	make sure it's as efficient as possible:(
+Basic Code Optimizations in C:(https://www.geeksforgeeks.org/c/basic-code-optimizations-in-c/)
+intrinsics ARE USED:(GCC https://gcc.gnu.org/onlinedocs/gcc/Target-Builtins.html, MSVC https://learn.microsoft.com/en-us/cpp/intrinsics/compiler-intrinsics?view=msvc-170)
+C Speed Optimization Checklist:(https://gist.github.com/Raimo33/a242dda9db872e0f4077f17594da9c78)
+Optimization of Computer Programs in C:(https://icps.u-strasbg.fr/~bastoul/local_copies/lee.html)
+)
+	make sure that it's possible to have the smallest size without any optimization flags nor additional parameters:(
+YOU CAN TEST WITH OPTIMIZATION FLAGS IF ANY ERRORS WILL OCCUR:(like if any instruction or intrin will change due to compilation flags and it would cause trouble)
+YOU CAN USE RELEASE
+YOU DON'T USE CRT DUE TO ADDITIONAL DLL FILES NEEDED TO RUN THE PROGRAM(instead use NoCRT.h, yes it's not that goodly tested but there is still no errors caught while working with NoCRT.h)
+YOU DON'T USE ANY EXTERNAL LIBS(or you must modificate them to work as effient as possible)
+YOU NEED TO USE HxD AND ANY OTHER PROGRAMS TO SEE THAT EVERYTHING IS WORKS AS INTENDED
+if this is not an user api YOU CAN USE OPTIMIZATION FLAGS AND ANY OTHER USAGE OF EXTERNAL PACKERS TO MAKE THE SOFTWARE AS SMALL AS POSSIBLE SINCE ALMOST NO USER WILL USEE THIS API AND THERE IS NO NEED FOR COMFORT
+
+)
