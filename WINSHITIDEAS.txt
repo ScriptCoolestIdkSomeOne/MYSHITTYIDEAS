@@ -1,0 +1,13 @@
+make 2 things ,1 static window where oscilloscope plays only in it's respectable drawing position,2 dynamic where it's
+changes the window itself as oscilloscope changes the lines/size and other things
+
+hall and other things, just being able to produce almost every variation of the sound, like if you want to be like in a
+cinema then just enable echo, place the sound object where you want(also can multiply them) and place where you sit
+or if you want to be like in a car with radio(same with cinema just place the object and yourself in the virtual room)
+
+make equalizer 3000, you can change everything, like change this, that or this
+
+make beat/picture perfect detection for audio and dsp effects04
+
+make effects for dsps(NO MATTER WHAT DSP, just make for every dsp the same drawing cycle), crt(litarally), classic,
+BW, etc etc...
