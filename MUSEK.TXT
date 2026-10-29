@@ -1,0 +1,14 @@
+make a small buffer somewhat 64kb(i will think to store 4 values in 1 byte)?
+and it that buffer will be thingy that uhhh havelook up table like where the end, beginning, drop, intro, outro,
+beat, bpm, speed up, speed down, warmup and other sheesh
+and the algorithm will remmeber all of th stuff(but first of couese verify that it's on beat and it's sounds like
+a bop if the song is the bop and sounds correct) and well thhen create other file with the like "shit.txt" with
+all of this shit and the visual will just read from that file instead of accessing RAM again
+about bop i mean like the algorightm needs to underatand if the list that he wrote is logical or not like if not
+then it would be just a mess and not a song so i need to make another algorithm(smooth algorightm) that listens
+and understands if the song is the song or just a mess(and maybe will just understand where is wrong stuff is in
+the song or what note is better to play here)
+
+for the beat detection we just open file and try to find beat thingies(like 123 and 123 and 123, well you've got
+what i've tried to tell ya) in the high freq and then by this data smooth algorithm understands what is better
+for the ear and for you dummy
